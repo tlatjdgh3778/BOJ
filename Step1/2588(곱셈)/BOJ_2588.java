@@ -1,3 +1,5 @@
+// 2588(곱셈)
+
 package Step1;
 
 import java.util.*;
