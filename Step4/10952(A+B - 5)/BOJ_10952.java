@@ -1,4 +1,4 @@
-// 10952(A+B - 5)
+// 10952(A+B - 5).
 package Step4;
 
 import java.util.*;
